@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> About Myself </title
+</head>
+<body>
+<h1><EM>HAI!</EM></hi>
+<BLOCKQUOTE><EM><CENTER>Welcome</CENTER></EM></BLOCKQUOTE>
+<p>Namaku Audita Nurrafa, aku biasa dipanggil Audita. dan ini <strong>biodata</strong>diriku:</p> <ul type="square">
+	<li>Nama Lengkap			: Audita Nurrafa</li>
+	<li>Tempat Tanggal Lahir	: Bogor, 2 mei 2019</li>
+	<li>Alamat 					: Kp. Nagrog Gn.Sindur Bogor </li>
+	<li>Agama 					: Islam</li>
+	<li>Email					: Auditanr@gmail.com</li>
+	<li>Status					: Pelajar</li>
+	<li>Hobi    				: Membuat Bullet Journal</li>
+		<p>Aku sangat suka sekali menbuat Bullet journal ketika akku sedang tidak memiliki kesibukan. membuat bullet journal bisa mengembangkan kekeretifitasanku. biasanya aku membuat journal yang bertema tentang kpop, idol kesayanganku. aku suka sekali mendengarkan musik dari group kesukaan ku yaitu exo dan nct. selain suka mendengarkan lagu meraka, aku juga sangat terinspirasi dengan kerja keras mereka aku jadi lebih rajin belajar karnanya. Kayaknya segitu aja yang ingin aku sampaikan tentang  diriku, Terimakasih!</p>
+	<img src="audita.jpg">
+</body>
+</html>
